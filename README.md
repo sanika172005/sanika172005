@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="Black Modern Personal LinkedIn Banner_20260110_134440_0000.png"> 
+<img src="White Minimalist Profile LinkedIn Banner.png"> 
 
 
  ###  About Me  <img  src="stats (1).gif" height="35"/>
