@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **sanika172005/sanika172005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -98,7 +98,7 @@ These are the technologies I work with — languages, libraries, tools, and plat
   <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</td>
    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
+  <!-- <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td> -->
   <td align="center"><img src="icons8-numpy-480.png" width="40"/><br>Numpy</td>
    <td align="center"><img src="Pandas.png" width="40"/><br>Pandas</td>
    
@@ -119,8 +119,8 @@ These are the technologies I work with — languages, libraries, tools, and plat
  
 ### Connect With Me <img  src="Eye.gif" height="35"/>  
   
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omkar-wable-22712a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/omkar_wable_2907?igsh=ejl1eWowZzMyYzJt)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanika-shirke-734960324/_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
  
 
  
