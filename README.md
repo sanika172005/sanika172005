@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
  ###  About Me  <img  src="stats (1).gif" height="35"/>
 
-**AI/ML · Modern Web Enthutiast ♾️ · UI Designing** <br/>
+**MERN Stack Developer | Full-Stack Web Development | UI Designing** <br/>
 B.E undergraduate at [DVVPCOE] .<br/>
 
 > *Curious by nature, disciplined in effort, and consistent in learning.*
