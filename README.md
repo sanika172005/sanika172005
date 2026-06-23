@@ -28,10 +28,10 @@ B.E undergraduate at [DVVPCOE] .<br/>
 <!-- ==============Current Status============= --->
 ### Working On <img  src="activity.gif" height="35"/> 
     
-- Data Cleaning , Processing for ML
-- Implementing Ideas that solves a real-time solution
-- Practicing Mathematical functions ♾️
-- Exploring React and UI Libraries 🔑
+- Building Full-Stack Web Application using MERN Stack
+- Exploring React.js and Modern UI Libraries
+- Learning Backend APIs with Node.js & Express.js
+- Practicing DSA and Problem Solving 
  
  
 
